@@ -1,0 +1,6 @@
+flask
+requests 
+requests_oauthlib
+Flask-SSLify
+pyopenssl
+google-api-python-client
